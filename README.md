@@ -9,8 +9,8 @@ The provided Pluto notebooks also show how to reproduce the figures from the art
 
 Fork the repo and run the notebooks.
 
-The notebook 'attenuation_signals.jl' shows how to reproduce the figures using the raw data from the attenuation experiments
+The notebook `attenuation_signals.jl` shows how to reproduce the figures using the raw data from the attenuation experiments
 
-The notebook 'synthetic_signals.jl' shows how to extract phase lags from artificial signals and reproduce the figures represented in the article.
+The notebook `synthetic_signals.jl` shows how to extract phase lags from artificial signals and reproduce the figures represented in the article.
 
  
