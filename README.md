@@ -1,4 +1,6 @@
 # Extracting Phase Lag Between Complex Time Series
+[![DOI](https://zenodo.org/badge/838015791.svg)](https://zenodo.org/doi/10.5281/zenodo.13212396)
+
 
 ## Overview
 
